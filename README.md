@@ -1,0 +1,2 @@
+# HKAutoPackageScript
+iOS 自动打包并且上传到蒲公英等第三方应用分发平台脚本
